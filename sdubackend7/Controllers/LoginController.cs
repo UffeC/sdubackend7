@@ -33,7 +33,8 @@ namespace sdubackend7.Controllers
                     ApplicationName = login.GetPropertyValue<string>("applicationName"),
                     Instructions = login.GetPropertyValue<string>("instructions"),
                     CodePlaceholder = login.GetPropertyValue<string>("codePlaceholder"),
-                    LoginButtonText = login.GetPropertyValue<string>("loginButtonText")
+                    LoginButtonText = login.GetPropertyValue<string>("loginButtonText"),
+                    LoginHelpText = login.GetPropertyValue<string>("loginHelpText")
                 };
             }
             catch

@@ -18,7 +18,7 @@ using sdubackend7.Models.Sections;
 
 namespace sdubackend7.Controllers
 {
-    public class GuidesController : UmbracoApiController
+    public class GuideController : UmbracoApiController
     {
 
         public GuideSection GetContent()

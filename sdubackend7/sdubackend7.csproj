@@ -282,9 +282,14 @@
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\GuideIntroController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
-    <Compile Include="Controllers\GuidesController.cs" />
+    <Compile Include="Controllers\GuideController.cs" />
+    <Compile Include="Controllers\OverviewController.cs" />
+    <Compile Include="Controllers\SubmissionsController.cs" />
     <Compile Include="Controllers\SurveyController.cs" />
+    <Compile Include="Controllers\TrainingController.cs" />
     <Compile Include="Models\Base\ContentBox.cs" />
+    <Compile Include="Models\Base\Submission.cs" />
+    <Compile Include="Models\Base\Week.cs" />
     <Compile Include="Models\Exercise.cs" />
     <Compile Include="Models\Pages\ExercisesPage.cs" />
     <Compile Include="Models\Sections\GuideIntroSection.cs" />
@@ -292,6 +297,7 @@
     <Compile Include="Models\Sections\LoginSection.cs" />
     <Compile Include="Models\Base\Section.cs" />
     <Compile Include="Models\Sections\SurveyASection.cs" />
+    <Compile Include="Models\Sections\TrainingSection.cs" />
     <Compile Include="Models\SimpleBox.cs" />
     <Compile Include="Models\Pages\SimpleBoxPage.cs" />
     <Compile Include="Models\Base\Page.cs" />

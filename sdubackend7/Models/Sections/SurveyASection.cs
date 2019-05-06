@@ -36,11 +36,11 @@ namespace sdubackend7.Models.Sections
         public string ComplimentaryTreatmentHeading { get; set; }
         public string ComplimentaryTreatmentInformation { get; set; }
         public string ComplimentaryTreatmentsSubheading { get; set; }
-        public bool DoctorLabel { get; set; }
-        public bool PhysiotherapyLabel { get; set; }
-        public bool MassageLabel { get; set; }
-        public bool AcupunctureLabel { get; set; }
-        public bool ChiropractorLabel { get; set; }
+        public string HasSeenDoctorSubheading { get; set; }
+        public string PhysiotherapyLabel { get; set; }
+        public string MassageLabel { get; set; }
+        public string AcupunctureLabel { get; set; }
+        public string ChiropractorLabel { get; set; }
         public string OtherTreatmentPlaceholder { get; set; }
     }
 }

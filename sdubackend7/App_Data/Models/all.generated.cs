@@ -8,8 +8,8 @@ using  Umbraco.Web;
 using  Umbraco.ModelsBuilder;
 using  Umbraco.ModelsBuilder.Umbraco;
 [assembly: PureLiveAssembly]
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "ac6bdfb13c64ab86")]
-[assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "e5f2e37c5892d59c")]
+[assembly:System.Reflection.AssemblyVersion("0.0.0.2")]
 
 
 // FILE: models.generated.cs
@@ -606,6 +606,312 @@ namespace Umbraco.Web.PublishedContentModels
 		public static PublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<TrainingSurvey, TValue>> selector)
 		{
 			return PublishedContentModelUtility.GetModelPropertyType(GetModelContentType(), selector);
+		}
+
+		///<summary>
+		/// Acupuncture Label
+		///</summary>
+		[ImplementPropertyType("acupunctureLabel")]
+		public string AcupunctureLabel
+		{
+			get { return this.GetPropertyValue<string>("acupunctureLabel"); }
+		}
+
+		///<summary>
+		/// Chiropractor Label
+		///</summary>
+		[ImplementPropertyType("chiropractorLabel")]
+		public string ChiropractorLabel
+		{
+			get { return this.GetPropertyValue<string>("chiropractorLabel"); }
+		}
+
+		///<summary>
+		/// Complimentary Treatment Heading
+		///</summary>
+		[ImplementPropertyType("complimentaryTreatmentHeading")]
+		public string ComplimentaryTreatmentHeading
+		{
+			get { return this.GetPropertyValue<string>("complimentaryTreatmentHeading"); }
+		}
+
+		///<summary>
+		/// Complimentary Treatment Information
+		///</summary>
+		[ImplementPropertyType("complimentaryTreatmentInformation")]
+		public string ComplimentaryTreatmentInformation
+		{
+			get { return this.GetPropertyValue<string>("complimentaryTreatmentInformation"); }
+		}
+
+		///<summary>
+		/// Complimentary Treatments Subheading
+		///</summary>
+		[ImplementPropertyType("complimentaryTreatmentsSubheading")]
+		public string ComplimentaryTreatmentsSubheading
+		{
+			get { return this.GetPropertyValue<string>("complimentaryTreatmentsSubheading"); }
+		}
+
+		///<summary>
+		/// Days On Medication Subheading
+		///</summary>
+		[ImplementPropertyType("daysOnMedicationSubheading")]
+		public string DaysOnMedicationSubheading
+		{
+			get { return this.GetPropertyValue<string>("daysOnMedicationSubheading"); }
+		}
+
+		///<summary>
+		/// Days Sick Subheading
+		///</summary>
+		[ImplementPropertyType("daysSickSubheading")]
+		public string DaysSickSubheading
+		{
+			get { return this.GetPropertyValue<string>("daysSickSubheading"); }
+		}
+
+		///<summary>
+		/// Enter Pieces Placeholder
+		///</summary>
+		[ImplementPropertyType("enterPiecesPlaceholder")]
+		public string EnterPiecesPlaceholder
+		{
+			get { return this.GetPropertyValue<string>("enterPiecesPlaceholder"); }
+		}
+
+		///<summary>
+		/// Has Seen Doctor Subheading
+		///</summary>
+		[ImplementPropertyType("hasSeenDoctorSubheading")]
+		public string HasSeenDoctorSubheading
+		{
+			get { return this.GetPropertyValue<string>("hasSeenDoctorSubheading"); }
+		}
+
+		///<summary>
+		/// Has Taken Medication Subheading
+		///</summary>
+		[ImplementPropertyType("hasTakenMedicationSubheading")]
+		public string HasTakenMedicationSubheading
+		{
+			get { return this.GetPropertyValue<string>("hasTakenMedicationSubheading"); }
+		}
+
+		///<summary>
+		/// Ipren 200 Label
+		///</summary>
+		[ImplementPropertyType("ipren200Label")]
+		public string Ipren200Label
+		{
+			get { return this.GetPropertyValue<string>("ipren200Label"); }
+		}
+
+		///<summary>
+		/// Ipren 600 Label
+		///</summary>
+		[ImplementPropertyType("ipren600Label")]
+		public string Ipren600Label
+		{
+			get { return this.GetPropertyValue<string>("ipren600Label"); }
+		}
+
+		///<summary>
+		/// Massage Label
+		///</summary>
+		[ImplementPropertyType("massageLabel")]
+		public string MassageLabel
+		{
+			get { return this.GetPropertyValue<string>("massageLabel"); }
+		}
+
+		///<summary>
+		/// Medication Heading
+		///</summary>
+		[ImplementPropertyType("medicationHeading")]
+		public string MedicationHeading
+		{
+			get { return this.GetPropertyValue<string>("medicationHeading"); }
+		}
+
+		///<summary>
+		/// Medication Type Amount Subheading
+		///</summary>
+		[ImplementPropertyType("medicationTypeAmountSubheading")]
+		public string MedicationTypeAmountSubheading
+		{
+			get { return this.GetPropertyValue<string>("medicationTypeAmountSubheading"); }
+		}
+
+		///<summary>
+		/// Other Label
+		///</summary>
+		[ImplementPropertyType("otherLabel")]
+		public string OtherLabel
+		{
+			get { return this.GetPropertyValue<string>("otherLabel"); }
+		}
+
+		///<summary>
+		/// Other Medication Amount Label
+		///</summary>
+		[ImplementPropertyType("otherMedicationAmountLabel")]
+		public string OtherMedicationAmountLabel
+		{
+			get { return this.GetPropertyValue<string>("otherMedicationAmountLabel"); }
+		}
+
+		///<summary>
+		/// Other Medication Amount Placeholder
+		///</summary>
+		[ImplementPropertyType("otherMedicationAmountPlaceholder")]
+		public string OtherMedicationAmountPlaceholder
+		{
+			get { return this.GetPropertyValue<string>("otherMedicationAmountPlaceholder"); }
+		}
+
+		///<summary>
+		/// Other Medication Type Label
+		///</summary>
+		[ImplementPropertyType("otherMedicationTypeLabel")]
+		public string OtherMedicationTypeLabel
+		{
+			get { return this.GetPropertyValue<string>("otherMedicationTypeLabel"); }
+		}
+
+		///<summary>
+		/// Other Medication Type Placeholder
+		///</summary>
+		[ImplementPropertyType("otherMedicationTypePlaceholder")]
+		public string OtherMedicationTypePlaceholder
+		{
+			get { return this.GetPropertyValue<string>("otherMedicationTypePlaceholder"); }
+		}
+
+		///<summary>
+		/// Other Treatment Placeholder
+		///</summary>
+		[ImplementPropertyType("otherTreatmentPlaceholder")]
+		public string OtherTreatmentPlaceholder
+		{
+			get { return this.GetPropertyValue<string>("otherTreatmentPlaceholder"); }
+		}
+
+		///<summary>
+		/// Pain Average Subheading
+		///</summary>
+		[ImplementPropertyType("painAverageSubheading")]
+		public string PainAverageSubheading
+		{
+			get { return this.GetPropertyValue<string>("painAverageSubheading"); }
+		}
+
+		///<summary>
+		/// Pain Heading
+		///</summary>
+		[ImplementPropertyType("painHeading")]
+		public string PainHeading
+		{
+			get { return this.GetPropertyValue<string>("painHeading"); }
+		}
+
+		///<summary>
+		/// Pain Highest Label
+		///</summary>
+		[ImplementPropertyType("painHighestLabel")]
+		public string PainHighestLabel
+		{
+			get { return this.GetPropertyValue<string>("painHighestLabel"); }
+		}
+
+		///<summary>
+		/// Pain High Subheading
+		///</summary>
+		[ImplementPropertyType("painHighSubheading")]
+		public string PainHighSubheading
+		{
+			get { return this.GetPropertyValue<string>("painHighSubheading"); }
+		}
+
+		///<summary>
+		/// Pain Information Body
+		///</summary>
+		[ImplementPropertyType("painInformationBody")]
+		public string PainInformationBody
+		{
+			get { return this.GetPropertyValue<string>("painInformationBody"); }
+		}
+
+		///<summary>
+		/// Pain Information Help
+		///</summary>
+		[ImplementPropertyType("painInformationHelp")]
+		public string PainInformationHelp
+		{
+			get { return this.GetPropertyValue<string>("painInformationHelp"); }
+		}
+
+		///<summary>
+		/// Pain Lowest Label
+		///</summary>
+		[ImplementPropertyType("painLowestLabel")]
+		public string PainLowestLabel
+		{
+			get { return this.GetPropertyValue<string>("painLowestLabel"); }
+		}
+
+		///<summary>
+		/// Pain Low Subheading
+		///</summary>
+		[ImplementPropertyType("painLowSubheading")]
+		public string PainLowSubheading
+		{
+			get { return this.GetPropertyValue<string>("painLowSubheading"); }
+		}
+
+		///<summary>
+		/// Pain Question
+		///</summary>
+		[ImplementPropertyType("painQuestion")]
+		public string PainQuestion
+		{
+			get { return this.GetPropertyValue<string>("painQuestion"); }
+		}
+
+		///<summary>
+		/// Pamol 500 Label
+		///</summary>
+		[ImplementPropertyType("pamol500Label")]
+		public string Pamol500Label
+		{
+			get { return this.GetPropertyValue<string>("pamol500Label"); }
+		}
+
+		///<summary>
+		/// Physiotherapy Label
+		///</summary>
+		[ImplementPropertyType("physiotherapyLabel")]
+		public string PhysiotherapyLabel
+		{
+			get { return this.GetPropertyValue<string>("physiotherapyLabel"); }
+		}
+
+		///<summary>
+		/// Sickness Heading
+		///</summary>
+		[ImplementPropertyType("sicknessHeading")]
+		public string SicknessHeading
+		{
+			get { return this.GetPropertyValue<string>("sicknessHeading"); }
+		}
+
+		///<summary>
+		/// Survey Information
+		///</summary>
+		[ImplementPropertyType("surveyInformation")]
+		public string SurveyInformation
+		{
+			get { return this.GetPropertyValue<string>("surveyInformation"); }
 		}
 
 		///<summary>

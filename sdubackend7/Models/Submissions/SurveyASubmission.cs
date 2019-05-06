@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using sdubackend7.Models.Base;
 
 namespace sdubackend7.Models.Submissions
 {
-    public class SurveyASubmission
+    public class SurveyASubmission : Submission
     {
-        public string User { get; set; }
-        public DateTime Date { get; set; }
         public int PainLow { get; set; }
         public int PainHigh { get; set; }
         public int PainAverage { get; set; }

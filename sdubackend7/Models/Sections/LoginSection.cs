@@ -12,5 +12,6 @@ namespace sdubackend7.Models.Sections
         public string Instructions { get; set; }
         public string CodePlaceholder { get; set; }
         public string LoginButtonText { get; set; }
+        public string LoginHelpText { get; set; }        
     }
 }
