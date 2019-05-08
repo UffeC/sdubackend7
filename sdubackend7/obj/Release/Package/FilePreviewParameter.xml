@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sdubackend" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\uffec\\vs\\sdubackend7\\sdubackend7\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\uffec\\vs\\sdubackend7\\sdubackend7\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="umbracoDbDSN-Web.config Connection String" description="" value="Data Source=uffechristiansen.database.windows.net;Initial Catalog=sdubackend;Persist Security Info=True;User ID=uch;Password=Kurt_159753" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\uffec\\vs\\sdubackend7\\sdubackend7\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='umbracoDbDSN']/@connectionString" />
+  </parameter>
+</parameters>

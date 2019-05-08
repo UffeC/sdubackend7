@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <map>
-  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdHJlZS90cmVlaWNvbnMuY3NzOy91bWJyYWNvL2xpYi9ib290c3RyYXAtc29jaWFsL2Jvb3RzdHJhcC1zb2NpYWwuY3NzOy91bWJyYWNvL2xpYi9mb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_7c4dfeeb8c6d43c3b6b5f996b977392e.cdC" compression="gzip" version="1">
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdHJlZS90cmVlaWNvbnMuY3NzOy91bWJyYWNvL2xpYi9ib290c3RyYXAtc29jaWFsL2Jvb3RzdHJhcC1zb2NpYWwuY3NzOy91bWJyYWNvL2xpYi9mb250LWF3ZXNvbWUvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_498e5c7c0378468884d2e53856336189.cdC" compression="gzip" version="772477986">
     <files>
       <file name="/umbraco/assets/css/umbraco.css" />
       <file name="/umbraco_client/tree/treeicons.css" />
@@ -8,7 +8,7 @@
       <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
     </files>
   </item>
-  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUtbWluLmpzOy91bWJyYWNvL2xpYi9tb21lbnQvbW9tZW50Lm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpL2pxdWVyeS11aS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS11aS10b3VjaC1wdW5jaC9qcXVlcnkudWkudG91Y2gtcHVuY2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXRhYmRyb3AvYm9vdHN0cmFwLXRhYmRyb3AuanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVVtYkNsaWVudE1nci5qczsvdW1icmFjby9saWIvdW1icmFjby9MZWdhY3lTcGVlY2hCdWJibGUuanM7L3VtYnJhY28vanMvYXBwLmpzOy91bWJyYWNvL2pzL3VtYnJhY28ucmVzb3VyY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZGlyZWN0aXZlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmZpbHRlcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlY3VyaXR5LmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9Nb2RlbHNCdWlsZGVyL21vZGVsc2J1aWxkZXIucmVzb3VyY2UuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uRGVsZXRlUmVsYXRpb25UeXBlLmpzOy91bWJyYWNvL2RldmVsb3Blci9SZWxhdGlvblR5cGVzL1RyZWVNZW51L0FjdGlvbk5ld1JlbGF0aW9uVHlwZS5qczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_4641d7d1a0834533bb9666ad47211f56.cdJ" compression="gzip" version="1">
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLzEuMS41L2FuZ3VsYXIubWluLmpzOy91bWJyYWNvL2xpYi91bmRlcnNjb3JlL3VuZGVyc2NvcmUtbWluLmpzOy91bWJyYWNvL2xpYi9tb21lbnQvbW9tZW50Lm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpL2pxdWVyeS11aS5taW4uanM7L3VtYnJhY28vbGliL2pxdWVyeS11aS10b3VjaC1wdW5jaC9qcXVlcnkudWkudG91Y2gtcHVuY2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvMS4xLjUvYW5ndWxhci1jb29raWVzLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLW1vYmlsZS5qczsvdW1icmFjby9saWIvYW5ndWxhci8xLjEuNS9hbmd1bGFyLXNhbml0aXplLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci9hbmd1bGFyLXVpLXNvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXRhYmRyb3AvYm9vdHN0cmFwLXRhYmRyb3AuanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVVtYkNsaWVudE1nci5qczsvdW1icmFjby9saWIvdW1icmFjby9MZWdhY3lTcGVlY2hCdWJibGUuanM7L3VtYnJhY28vanMvYXBwLmpzOy91bWJyYWNvL2pzL3VtYnJhY28ucmVzb3VyY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZGlyZWN0aXZlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmZpbHRlcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLnNlY3VyaXR5LmpzOy91bWJyYWNvL2pzL3VtYnJhY28uY29udHJvbGxlcnMuanM7L3VtYnJhY28vanMvcm91dGVzLmpzOy91bWJyYWNvL2pzL2luaXQuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9Nb2RlbHNCdWlsZGVyL21vZGVsc2J1aWxkZXIucmVzb3VyY2UuanM7L3VtYnJhY28vZGV2ZWxvcGVyL1JlbGF0aW9uVHlwZXMvVHJlZU1lbnUvQWN0aW9uRGVsZXRlUmVsYXRpb25UeXBlLmpzOy91bWJyYWNvL2RldmVsb3Blci9SZWxhdGlvblR5cGVzL1RyZWVNZW51L0FjdGlvbk5ld1JlbGF0aW9uVHlwZS5qczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_deaddde6e4774b33ae34a5608bbebf5c.cdJ" compression="gzip" version="772477986">
     <files>
       <file name="/umbraco/lib/jquery/jquery.min.js" />
       <file name="/umbraco/lib/angular/1.1.5/angular.min.js" />
@@ -44,40 +44,12 @@
       <file name="/umbraco/developer/RelationTypes/TreeMenu/ActionNewRelationType.js" />
     </files>
   </item>
-  <item key="L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvU29ydERpYWxvZy5jc3M7L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_ed6b4bae0481444382feed3d67faf3f6.cdC" compression="gzip" version="1">
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_f281495bf4a14d12969f796b70041f11.cdC" compression="gzip" version="772477986">
     <files>
-      <file name="/umbraco_client/Dialogs/SortDialog.css" />
       <file name="/umbraco/assets/css/umbraco.css" />
     </files>
   </item>
-  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0V4dGVuc2lvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0hpc3RvcnlNYW5hZ2VyLmpzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_ab15bd78fa3840289123b3ef271aa0ac.cdJ" compression="gzip" version="1">
-    <files>
-      <file name="/umbraco_client/Application/Extensions.js" />
-      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
-      <file name="/umbraco_client/Application/HistoryManager.js" />
-    </files>
-  </item>
-  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvU29ydERpYWxvZy5qczsvdW1icmFjb19jbGllbnQvdGFibGVzb3J0aW5nL2pxdWVyeS50YWJsZXNvcnRlci5taW4uanM7L3VtYnJhY29fY2xpZW50L3RhYmxlc29ydGluZy90YWJsZURyYWdBbmREcm9wLmpzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_076995f951e642e79db3979a4895484d.cdJ" compression="gzip" version="1">
-    <files>
-      <file name="/umbraco_client/ui/default.js" />
-      <file name="/umbraco_client/Dialogs/SortDialog.js" />
-      <file name="/umbraco_client/tablesorting/jquery.tablesorter.min.js" />
-      <file name="/umbraco_client/tablesorting/tableDragAndDrop.js" />
-    </files>
-  </item>
-  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY28vbGliL2pxdWVyeS1taWdyYXRlL2pxdWVyeS1taWdyYXRlLm1pbi5qczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_c758025d7ac944309197db84a81cfa75.cdJ" compression="gzip" version="1">
-    <files>
-      <file name="/umbraco_client/ui/jquery.js" />
-      <file name="/umbraco_client/ui/jqueryui.js" />
-      <file name="/umbraco/lib/jquery-migrate/jquery-migrate.min.js" />
-    </files>
-  </item>
-  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_c417737467574ecf862fdbd9659492b6.cdJ" compression="gzip" version="1">
-    <files>
-      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
-    </files>
-  </item>
-  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvdWkvanNvbjIuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9VSS9rbm9ja291dC5qczsvdW1icmFjb19jbGllbnQvVUkva25vY2tvdXQubWFwcGluZy5qczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\1_bb92e73009594eb682dcd33c0a694cba.cdJ" compression="gzip" version="1">
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvdWkvanNvbjIuanM7L3VtYnJhY29fY2xpZW50L3VpL2Jhc2UyLmpzOy91bWJyYWNvX2NsaWVudC9VSS9rbm9ja291dC5qczsvdW1icmFjb19jbGllbnQvVUkva25vY2tvdXQubWFwcGluZy5qczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_79d717b1c5df4fd78e1a7b04d8c533c5.cdJ" compression="gzip" version="772477986">
     <files>
       <file name="/umbraco_client/Application/NamespaceManager.js" />
       <file name="/umbraco_client/Application/UmbracoUtils.js" />
@@ -85,6 +57,59 @@
       <file name="/umbraco_client/ui/base2.js" />
       <file name="/umbraco_client/UI/knockout.js" />
       <file name="/umbraco_client/UI/knockout.mapping.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY28vbGliL2pxdWVyeS1taWdyYXRlL2pxdWVyeS1taWdyYXRlLm1pbi5qczs" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_9d8fd3b791a34472b7359cef2b8e0bfd.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/jqueryui.js" />
+      <file name="/umbraco/lib/jquery-migrate/jquery-migrate.min.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0V4dGVuc2lvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0hpc3RvcnlNYW5hZ2VyLmpzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_7d20c01b5ecf47069b8d6ccaa2f9a63b.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/Application/Extensions.js" />
+      <file name="/umbraco_client/Application/UmbracoApplicationActions.js" />
+      <file name="/umbraco_client/Application/HistoryManager.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_d029398fbe474f61930597e20f91e9c1.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOw" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_5540c9bbb4e644f59a4917d4ffd94590.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/Application/UmbracoClientManager.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjby9saWIvanF1ZXJ5LW1pZ3JhdGUvanF1ZXJ5LW1pZ3JhdGUubWluLmpzOy91bWJyYWNvX2NsaWVudC91aS9iYXNlMi5qczsvdW1icmFjb19jbGllbnQvVUkva25vY2tvdXQuanM7L3VtYnJhY29fY2xpZW50L1VJL2tub2Nrb3V0Lm1hcHBpbmcuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_08401710e5e94b06bfb06f8d41252e22.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco/lib/jquery-migrate/jquery-migrate.min.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/UI/knockout.js" />
+      <file name="/umbraco_client/UI/knockout.mapping.js" />
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvL2xpYi9ib290c3RyYXAvanMvYm9vdHN0cmFwLjIuMy4yLm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9jb21wYXQuanM7" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_2bb769f09d3743e198e8e1d77ab5de9e.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/modal/modal.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/lib/bootstrap/js/bootstrap.2.3.2.min.js" />
+      <file name="/umbraco/lib/umbraco/compat.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvdWkvalF1ZXJ5V3Jlc2l6ZS5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvanF1ZXJ5LnNpbXBsZW1vZGFsLjEuNC4xLmN1c3RvbS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkubWV0YWRhdGEubWluLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LmhvdGtleXMuanM7" file="C:\Users\uffec\vs\sdubackend7\sdubackend7\App_Data\TEMP\ClientDependency\772477986_68c0b232c46e4991970f2df68de2dc44.cdJ" compression="gzip" version="772477986">
+    <files>
+      <file name="/umbraco_client/Application/jQuery/jquery.ba-bbq.min.js" />
+      <file name="/umbraco_client/ui/jQueryWresize.js" />
+      <file name="/umbraco_client/modal/jquery.simplemodal.1.4.1.custom.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.cookie.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.metadata.min.js" />
+      <file name="/umbraco_client/Application/jQuery/jquery.hotkeys.js" />
     </files>
   </item>
 </map>

@@ -276,7 +276,9 @@
     <Content Include="config\Lang\zh-CN.user.xml" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\DefaultController.cs" />
@@ -287,6 +289,7 @@
     <Compile Include="Controllers\SubmissionsController.cs" />
     <Compile Include="Controllers\SurveyController.cs" />
     <Compile Include="Controllers\TrainingController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Models\Base\ContentBox.cs" />
     <Compile Include="Models\Base\Submission.cs" />
     <Compile Include="Models\Base\Week.cs" />
@@ -302,6 +305,7 @@
     <Compile Include="Models\Pages\SimpleBoxPage.cs" />
     <Compile Include="Models\Base\Page.cs" />
     <Compile Include="Models\Submissions\SurveyASubmission.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -339,6 +343,10 @@
     <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2.cshtml" />
     <Content Include="Views\Partials\Grid\Bootstrap2-Fluid.cshtml" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\sdubackend - Live Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\sdubackend - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\sdubackend720190506104608 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -1,0 +1,2055 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files />
+  <info>
+    <package>
+      <name>Ept</name>
+      <version>1</version>
+      <iconUrl />
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>none</url>
+      <requirements type="strict">
+        <major>7</major>
+        <minor>14</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Uffe</name>
+      <website>uffechri</website>
+    </author>
+    <readme><![CDATA[]]></readme>
+  </info>
+  <Documents>
+    <DocumentSet importMode="root">
+      <home id="1065" key="7021da52-54ba-414d-9606-a0e4a2731d4e" parentID="-1" level="1" creatorID="0" sortOrder="0" createDate="2019-04-09T10:02:55" updateDate="2019-04-09T10:27:13" nodeName="Overview" urlName="overview" path="-1,1065" isDoc="" nodeType="1063" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="home" isPublished="true">
+        <title><![CDATA[Oversigt]]></title>
+        <guide id="1066" key="8a182883-7e24-4e35-be1a-69e807dd0062" parentID="1065" level="2" creatorID="0" sortOrder="0" createDate="2019-04-09T10:04:03" updateDate="2019-04-09T10:27:00" nodeName="Guide" urlName="guide" path="-1,1065,1066" isDoc="" nodeType="1061" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="guide" isPublished="true">
+          <title><![CDATA[Vejledning]]></title>
+          <contentBoxPage id="1071" key="af5ba885-8ea1-470e-8c07-fd31fcea28dc" parentID="1066" level="3" creatorID="0" sortOrder="0" createDate="2019-04-09T10:26:10" updateDate="2019-04-09T10:26:10" nodeName="About program" urlName="about-program" path="-1,1065,1066,1071" isDoc="" nodeType="1069" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="contentBoxPage" isPublished="true">
+            <heading><![CDATA[Om programmet]]></heading>
+            <simpleBox id="1077" key="dd4a9fb3-c395-4db6-9c44-dd55a3a5b29b" parentID="1071" level="4" creatorID="0" sortOrder="0" createDate="2019-04-09T10:52:21" updateDate="2019-04-09T10:53:52" nodeName="How does the program work?" urlName="how-does-the-program-work" path="-1,1065,1066,1071,1077" isDoc="" nodeType="1075" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="simpleBox" isPublished="true">
+              <body><![CDATA[<p>Programmets er designet for at øge stivhedsgraden i muskler og sener omkring skulderen og skulderbladet, således at du bedre kan kontrollere bevægelser i hverdagen.</p>
+<p>De første fire uger er en tilvænningsfase, hvor belastningen gradvist øges. Derefter indledes styrkeprogrammet.</p>]]></body>
+              <title><![CDATA[Hvordan virker programmet?]]></title>
+            </simpleBox>
+            <simpleBox id="1078" key="51040a79-7abd-4fb1-b06d-3047907b8f89" parentID="1071" level="4" creatorID="0" sortOrder="1" createDate="2019-04-09T10:53:17" updateDate="2019-04-09T10:53:46" nodeName="General recommendations" urlName="general-recommendations" path="-1,1065,1066,1071,1078" isDoc="" nodeType="1075" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="simpleBox" isPublished="true">
+              <body><![CDATA[<p>Træning regelmæssigt er lige så vigtig som en sund livsstil, og der er ikke nogen grund til at folk med hypermobile led ikke skal træne. Men finder du ud af, at visse sportsgrene eller øvelser giver anledning til smerter, bør du stoppe disse aktiviteter, indtil du ved hvorfor symptomerne opstår. Med de rigtige styrkeøvelser kan det være muligt at vende tilbage til de bestemte aktiviteter uden at øge symptomerne.</p>
+<p>Kontrolleret styrketræning og holdningsøvelser kan derfor være godt for kroppen.</p>]]></body>
+              <title><![CDATA[Generelle anbefalinger]]></title>
+            </simpleBox>
+          </contentBoxPage>
+          <exercises id="1093" key="30ef99ce-9043-42a1-b5f3-71b690c0c5be" parentID="1066" level="3" creatorID="0" sortOrder="1" createDate="2019-04-11T10:36:11" updateDate="2019-04-21T13:18:30" nodeName="Exercises" urlName="exercises" path="-1,1065,1066,1093" isDoc="" nodeType="1089" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="exercises" isPublished="true">
+            <heading><![CDATA[Øvelser]]></heading>
+            <exercise id="1097" key="1b0dfcb0-c3cb-4400-a6bb-9723d0a5f343" parentID="1093" level="4" creatorID="0" sortOrder="0" createDate="2019-04-11T11:41:31" updateDate="2019-04-21T13:18:26" nodeName="Exercise 1" urlName="exercise-1" path="-1,1065,1066,1093,1097" isDoc="" nodeType="1087" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="exercise" isPublished="true">
+              <body><![CDATA[<p>Lorem ipsum</p>]]></body>
+              <intro><![CDATA[Udføres uge 1-4]]></intro>
+              <number>1</number>
+              <heading><![CDATA[Kropsholdning]]></heading>
+            </exercise>
+          </exercises>
+          <contentBoxPage id="1073" key="a2c82e34-4a27-446b-9c26-51bf6ed991a8" parentID="1066" level="3" creatorID="0" sortOrder="2" createDate="2019-04-09T10:26:50" updateDate="2019-04-09T10:26:50" nodeName="About training" urlName="about-training" path="-1,1065,1066,1073" isDoc="" nodeType="1069" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="contentBoxPage" isPublished="true">
+            <heading><![CDATA[Om træningsdagbogen]]></heading>
+          </contentBoxPage>
+        </guide>
+        <login id="1085" key="f3e29d38-b828-4524-8b5f-08f09f5b76a8" parentID="1065" level="2" creatorID="0" sortOrder="1" createDate="2019-04-10T20:45:56" updateDate="2019-04-21T13:58:29" nodeName="Login" urlName="login" path="-1,1065,1085" isDoc="" nodeType="1083" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="login" isPublished="true">
+          <title><![CDATA[Log ind]]></title>
+          <loginButtonText><![CDATA[Log ind]]></loginButtonText>
+          <codePlaceholder><![CDATA[Indtast din brugerkode]]></codePlaceholder>
+          <applicationName><![CDATA[SDU Træningsprogram]]></applicationName>
+          <instructions><![CDATA[Log ind med den kode du fik udleveret i din e-Boks.]]></instructions>
+        </login>
+        <guideIntro id="1101" key="d87cc5c9-6eae-4be3-a044-5755ab397726" parentID="1065" level="2" creatorID="0" sortOrder="2" createDate="2019-04-21T13:08:43" updateDate="2019-04-21T14:09:43" nodeName="Guide Intro" urlName="guide-intro" path="-1,1065,1101" isDoc="" nodeType="1100" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="guideIntro" isPublished="true">
+          <title><![CDATA[Vejledning]]></title>
+          <nextButtonText><![CDATA[Videre]]></nextButtonText>
+          <simpleBox id="1102" key="1bfb7e3a-6635-498b-bd7c-055422a5da17" parentID="1101" level="3" creatorID="0" sortOrder="0" createDate="2019-04-21T13:09:49" updateDate="2019-04-21T13:10:50" nodeName="Read through" urlName="read-through" path="-1,1065,1101,1102" isDoc="" nodeType="1075" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="simpleBox" isPublished="true">
+            <subheading><![CDATA[Læs denne vejledning igennem inden du påbegynder dit træningsprogram.]]></subheading>
+            <isImportant>1</isImportant>
+            <body><![CDATA[<p>Du kan altid finde vejledningen igen, når du får brug for den på et senere tidspunkt.</p>]]></body>
+          </simpleBox>
+          <simpleBox id="1103" key="0d777818-7f9f-400a-84b8-221dd7b44792" parentID="1101" level="3" creatorID="0" sortOrder="1" createDate="2019-04-21T13:11:33" updateDate="2019-04-21T14:09:55" nodeName="How does the program work" urlName="how-does-the-program-work" path="-1,1065,1101,1103" isDoc="" nodeType="1075" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="simpleBox" isPublished="true">
+            <subheading><![CDATA[Hvordan virker programmet?]]></subheading>
+            <isImportant>0</isImportant>
+            <body><![CDATA[<p>Programmets er designet for at øge stivhedsgraden i muskler og sener omkring skulderen og skulderbladet, således at du bedre kan kontrollere bevægelser i hverdagen.</p>
+<p>De første fire uger er en tilvænningsfase, hvor belastningen gradvist øges. Derefter indledes styrkeprogrammet.</p>]]></body>
+          </simpleBox>
+        </guideIntro>
+        <trainingOverview id="1108" key="99c11896-4c17-4c0d-a16c-031711784844" parentID="1065" level="2" creatorID="0" sortOrder="3" createDate="2019-04-21T14:10:31" updateDate="2019-04-21T14:10:31" nodeName="Training" urlName="training" path="-1,1065,1108" isDoc="" nodeType="1104" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="trainingOverview" isPublished="true">
+          <title><![CDATA[Træning]]></title>
+          <trainingDiary id="1109" key="9f222e2d-f6d9-4e0a-9217-6eaad912d7ca" parentID="1108" level="3" creatorID="0" sortOrder="0" createDate="2019-04-21T14:10:55" updateDate="2019-04-21T14:10:55" nodeName="Training Diary" urlName="training-diary" path="-1,1065,1108,1109" isDoc="" nodeType="1106" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="trainingDiary" isPublished="true">
+            <title><![CDATA[Træningsdagbog]]></title>
+          </trainingDiary>
+          <trainingSurvey id="1110" key="fb55fb0e-aee4-4ce8-93ad-e04283aa8797" parentID="1108" level="3" creatorID="0" sortOrder="1" createDate="2019-04-21T14:11:11" updateDate="2019-04-25T13:29:08" nodeName="Training Survey" urlName="training-survey" path="-1,1065,1108,1110" isDoc="" nodeType="1105" creatorName="Uffe Christiansen" writerName="Uffe Christiansen" writerID="0" template="0" nodeTypeAlias="trainingSurvey" isPublished="true">
+            <title><![CDATA[Spørgeskema]]></title>
+            <painLowestLabel><![CDATA[Ingen smerter]]></painLowestLabel>
+            <painHeading><![CDATA[Generelle skuldersmerter]]></painHeading>
+            <painLowSubheading><![CDATA[LAVESTE skuldersmerteniveau du har haft samlet set over den sidste uge]]></painLowSubheading>
+            <painQuestion><![CDATA[Hvis du samlet skal beskrive hvordan dine generelle skuldersmerter har været over den sidste uge, hvordan har du da haft det? ]]></painQuestion>
+            <painInformationBody><![CDATA[I de 3 nedenstående smerteskaler skal du beskrive dine skuldersmerter over den sidste uge når de har været lavest, når de  har været højest og det gennemsnitlige smerteniveau.]]></painInformationBody>
+            <painHighSubheading><![CDATA[HØJESTE  skuldersmerteniveau du har haft samlet set over den sidste uge]]></painHighSubheading>
+            <painHighestLabel><![CDATA[Værst tænkelige smerter]]></painHighestLabel>
+            <painInformationHelp><![CDATA[Hjælp til vurdering af smerter]]></painInformationHelp>
+            <painAverageSubheading><![CDATA[GENNEMSNITLIGE  skuldersmerte- niveau du har haft samlet set over den sidste uge]]></painAverageSubheading>
+            <surveyInformation><![CDATA[Spørgsmålene i dette spørgeskema omhandler dine smerter, dit forbrug af smertestillende medicin, sygedage og eventuel supplerende behandling for dine skuldergener inden for de sidste 7 dage.]]></surveyInformation>
+            <enterPiecesPlaceholder><![CDATA[Indtast antal]]></enterPiecesPlaceholder>
+            <medicationTypeAmountSubheading><![CDATA[Hvilket form for smertestillende har du taget og antal over den sidste uge?]]></medicationTypeAmountSubheading>
+            <daysOnMedicationSubheading><![CDATA[Hvor mange dage har du taget smertestillende for din skulder over den sidste uge?]]></daysOnMedicationSubheading>
+            <ipren200Label><![CDATA[Ipren/Ibumetin, 200 mg]]></ipren200Label>
+            <hasTakenMedicationSubheading><![CDATA[Har du over den sidste uge taget smertestillende medicin pga. din skulder?]]></hasTakenMedicationSubheading>
+            <pamol500Label><![CDATA[Pamol/Panodil, 500 mg]]></pamol500Label>
+            <medicationHeading><![CDATA[Smertestillende]]></medicationHeading>
+            <otherMedicationTypePlaceholder><![CDATA[Indtast type af medicin]]></otherMedicationTypePlaceholder>
+            <otherMedicationAmountLabel><![CDATA[Hvilken mængde?]]></otherMedicationAmountLabel>
+            <ipren600Label><![CDATA[Ipren/Ibumetin, 600 mg]]></ipren600Label>
+            <otherMedicationTypeLabel><![CDATA[Hvilken type medicin?]]></otherMedicationTypeLabel>
+            <otherLabel><![CDATA[Andet]]></otherLabel>
+            <otherMedicationAmountPlaceholder><![CDATA[Indtast antal]]></otherMedicationAmountPlaceholder>
+            <sicknessHeading><![CDATA[Sygefravær pga. skulderen]]></sicknessHeading>
+            <daysSickSubheading><![CDATA[Har du over den sidste uge haft nogen sygedage pga. din skulder?]]></daysSickSubheading>
+            <otherTreatmentPlaceholder><![CDATA[Hvilken behandling?]]></otherTreatmentPlaceholder>
+            <chiropractorLabel><![CDATA[Kiropraktor]]></chiropractorLabel>
+            <complimentaryTreatmentInformation><![CDATA[Supplerende behandling udover den du modtager som del af projektet.]]></complimentaryTreatmentInformation>
+            <complimentaryTreatmentsSubheading><![CDATA[Har du over den sidste uge modtaget én af følgende behandlinger ud over  det du modtager som en del af projektet?]]></complimentaryTreatmentsSubheading>
+            <physiotherapyLabel><![CDATA[Fysioterapi]]></physiotherapyLabel>
+            <acupunctureLabel><![CDATA[Akupunktur]]></acupunctureLabel>
+            <complimentaryTreatmentHeading><![CDATA[Supplerende behandling]]></complimentaryTreatmentHeading>
+            <massageLabel><![CDATA[Massage]]></massageLabel>
+            <hasSeenDoctorSubheading><![CDATA[Har du over den sidste uge opsøgt læge pga. din skulder?]]></hasSeenDoctorSubheading>
+          </trainingSurvey>
+        </trainingOverview>
+      </home>
+    </DocumentSet>
+  </Documents>
+  <DocumentTypes>
+    <DocumentType Folders="Compositions">
+      <Info>
+        <Name>Base content box</Name>
+        <Alias>baseContentBox</Alias>
+        <Icon>icon-document</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Subheading</Name>
+          <Alias>subheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>19</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Compositions">
+      <Info>
+        <Name>Base dairy submission</Name>
+        <Alias>baseDairySubmission</Alias>
+        <Icon>icon-edit color-black</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Pain Before</Name>
+          <Alias>painBefore</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Amount Before</Name>
+          <Alias>medicationAmountBefore</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Type Before</Name>
+          <Alias>medicationTypeBefore</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>3203a86f-9b5a-4018-b889-4feb284e7f31</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain After</Name>
+          <Alias>painAfter</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Side Effects</Name>
+          <Alias>sideEffects</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>98e08d8e-7717-46e4-9766-f526bb90ae9b</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comments</Name>
+          <Alias>comments</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>67244524-1e11-4500-9d0c-7431ecb15129</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Amount After</Name>
+          <Alias>medicationAmountAfter</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Type After</Name>
+          <Alias>medicationTypeAfter</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>3203a86f-9b5a-4018-b889-4feb284e7f31</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>User</Name>
+          <Alias>user</Alias>
+          <Type>Umbraco.ContentPicker2</Type>
+          <Definition>68b04731-bd5d-48c8-8eea-8c9747f6581d</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Date Filled</Name>
+          <Alias>dateFilled</Alias>
+          <Type>Umbraco.Date</Type>
+          <Definition>ae067000-68fb-4dca-a8f6-e3643a2bc082</Definition>
+          <Tab>About</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>47</Id>
+          <Caption>Before Training</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>48</Id>
+          <Caption>After Training</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>49</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Compositions">
+      <Info>
+        <Name>Base page</Name>
+        <Alias>basePage</Alias>
+        <Icon>icon-document</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Heading</Name>
+          <Alias>heading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>18</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Compositions">
+      <Info>
+        <Name>Base section</Name>
+        <Alias>baseSection</Alias>
+        <Icon>icon-document</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Title</Name>
+          <Alias>title</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>cb2014a7-b751-4e17-95ca-401545c3a458</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>13</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Compositions">
+      <Info>
+        <Name>Base survey submission</Name>
+        <Alias>baseSurveySubmission</Alias>
+        <Icon>icon-edit color-black</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Date Filled</Name>
+          <Alias>dateFilled</Alias>
+          <Type>Umbraco.Date</Type>
+          <Definition>ae067000-68fb-4dca-a8f6-e3643a2bc082</Definition>
+          <Tab>About</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>User</Name>
+          <Alias>user</Alias>
+          <Type>Umbraco.ContentPicker2</Type>
+          <Definition>68b04731-bd5d-48c8-8eea-8c9747f6581d</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>50</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Pages">
+      <Info>
+        <Name>Content box page</Name>
+        <Alias>contentBoxPage</Alias>
+        <Icon>icon-list color-deep-orange</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>simpleBox</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Heading</Name>
+          <Alias>heading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>14</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Components">
+      <Info>
+        <Name>Exercise</Name>
+        <Alias>exercise</Alias>
+        <Icon>icon-hearts color-pink</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body</Name>
+          <Alias>body</Alias>
+          <Type>Umbraco.TinyMCEv3</Type>
+          <Definition>852e641c-5c91-430e-90f1-0431d5ad7027</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Intro</Name>
+          <Alias>intro</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>754023c4-8b0c-4249-bd5e-f9509eaba199</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Number</Name>
+          <Alias>number</Alias>
+          <Type>Umbraco.Decimal</Type>
+          <Definition>371b607e-9fcd-4e0e-9a3e-dde440215a4e</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Heading</Name>
+          <Alias>heading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>17</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Pages">
+      <Info>
+        <Name>Exercises</Name>
+        <Alias>exercises</Alias>
+        <Icon>icon-hearts color-pink</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>basePage</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>exercise</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Submissions">
+      <Info>
+        <Name>Group A Diary Week 1-4</Name>
+        <Alias>groupADiary</Alias>
+        <Icon>icon-edit color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Control group dairy</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseDairySubmission</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Submissions">
+      <Info>
+        <Name>Group A Survey</Name>
+        <Alias>groupASurvey</Alias>
+        <Icon>icon-checkbox color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Pain Average</Name>
+          <Alias>painAverage</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Pain Level</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain High</Name>
+          <Alias>painHigh</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Pain Level</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Low</Name>
+          <Alias>painLow</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Pain Level</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Ipren/Ibumetin 600mg</Name>
+          <Alias>ipren600</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>fa35b06e-3935-4a17-886c-58a46e4cf473</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Days on Medication</Name>
+          <Alias>daysOnMedication</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>78db7c7b-9ae7-47ed-8af2-753a7caa8b70</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Ipren/Ibumetin 200mg</Name>
+          <Alias>ipren200</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>fa35b06e-3935-4a17-886c-58a46e4cf473</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Amount</Name>
+          <Alias>otherMedicationAmount</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>6</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Type</Name>
+          <Alias>otherMedicationType</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>3203a86f-9b5a-4018-b889-4feb284e7f31</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pamol/Panodil 500mg</Name>
+          <Alias>pamol500</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>fa35b06e-3935-4a17-886c-58a46e4cf473</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Days Sick</Name>
+          <Alias>daysSick</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>78db7c7b-9ae7-47ed-8af2-753a7caa8b70</Definition>
+          <Tab>Work</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Acupuncture</Name>
+          <Alias>treatmentAcupuncture</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Chiropractor</Name>
+          <Alias>treatmentChiropractor</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Physiotherapy</Name>
+          <Alias>treatmentPhysiotherapy</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Treatment</Name>
+          <Alias>otherTreatment</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>e6f42efc-4fa9-4c67-b9e7-99e5e635ec31</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Massage</Name>
+          <Alias>treatmentMassage</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Doctor</Name>
+          <Alias>treatmentDoctor</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Date</Name>
+          <Alias>date</Alias>
+          <Type>Umbraco.Date</Type>
+          <Definition>ae067000-68fb-4dca-a8f6-e3643a2bc082</Definition>
+          <Tab>About</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>User</Name>
+          <Alias>user</Alias>
+          <Type>Umbraco.ContentPicker2</Type>
+          <Definition>68b04731-bd5d-48c8-8eea-8c9747f6581d</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>22</Id>
+          <Caption>Pain Level</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>23</Id>
+          <Caption>Medication</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>24</Id>
+          <Caption>Work</Caption>
+          <SortOrder>3</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>25</Id>
+          <Caption>Complimentary Treatment</Caption>
+          <SortOrder>4</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>35</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Submissions">
+      <Info>
+        <Name>Group B Diary</Name>
+        <Alias>groupBDiary</Alias>
+        <Icon>icon-edit color-light-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Intervention group diary</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Date Filled</Name>
+          <Alias>dateFilled</Alias>
+          <Type>Umbraco.Date</Type>
+          <Definition>ae067000-68fb-4dca-a8f6-e3643a2bc082</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Before</Name>
+          <Alias>painBefore</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Amount Before</Name>
+          <Alias>medicationAmountBefore</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Is Supervised</Name>
+          <Alias>isSupervised</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Type Before</Name>
+          <Alias>medicationTypeBefore</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>3203a86f-9b5a-4018-b889-4feb284e7f31</Definition>
+          <Tab>Before Training</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Type After</Name>
+          <Alias>medicationTypeAfter</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>3203a86f-9b5a-4018-b889-4feb284e7f31</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain After</Name>
+          <Alias>painAfter</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Side Effects</Name>
+          <Alias>sideEffects</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>98e08d8e-7717-46e4-9766-f526bb90ae9b</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Amount After</Name>
+          <Alias>medicationAmountAfter</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Comments</Name>
+          <Alias>comments</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>67244524-1e11-4500-9d0c-7431ecb15129</Definition>
+          <Tab>After Training</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>User</Name>
+          <Alias>user</Alias>
+          <Type>Umbraco.ContentPicker2</Type>
+          <Definition>68b04731-bd5d-48c8-8eea-8c9747f6581d</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>37</Id>
+          <Caption>Before Training</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>38</Id>
+          <Caption>After Training</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>39</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Submissions">
+      <Info>
+        <Name>Group B Survey</Name>
+        <Alias>groupBSurvey</Alias>
+        <Icon>icon-checkbox color-light-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Pain High</Name>
+          <Alias>painHigh</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Pain Level</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Low</Name>
+          <Alias>painLow</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Pain Level</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Average</Name>
+          <Alias>painAverage</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>b9c7dba9-d1fc-4d31-9f32-d095a85d0600</Definition>
+          <Tab>Pain Level</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Type</Name>
+          <Alias>otherMedicationType</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>3203a86f-9b5a-4018-b889-4feb284e7f31</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Days on Medication</Name>
+          <Alias>daysOnMedication</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>78db7c7b-9ae7-47ed-8af2-753a7caa8b70</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Ipren/Ibumetin 200mg</Name>
+          <Alias>ipren200</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>fa35b06e-3935-4a17-886c-58a46e4cf473</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Amount</Name>
+          <Alias>otherMedicationAmount</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>6</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Ipren/Ibumetin 600mg</Name>
+          <Alias>ipren600</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>fa35b06e-3935-4a17-886c-58a46e4cf473</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pamol/Panodil 500mg</Name>
+          <Alias>pamol500</Alias>
+          <Type>Umbraco.Integer</Type>
+          <Definition>fa35b06e-3935-4a17-886c-58a46e4cf473</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Days Sick</Name>
+          <Alias>daysSick</Alias>
+          <Type>Umbraco.Slider</Type>
+          <Definition>78db7c7b-9ae7-47ed-8af2-753a7caa8b70</Definition>
+          <Tab>Work</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Acupuncture</Name>
+          <Alias>treatmentAcupuncture</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Chiropractor</Name>
+          <Alias>treatmentChiropractor</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Treatment</Name>
+          <Alias>otherTreatment</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>e6f42efc-4fa9-4c67-b9e7-99e5e635ec31</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Massage</Name>
+          <Alias>treatmentMassage</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Doctor</Name>
+          <Alias>treatmentDoctor</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Treatment Physiotherapy</Name>
+          <Alias>treatmentPhysiotherapy</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>User</Name>
+          <Alias>user</Alias>
+          <Type>Umbraco.ContentPicker2</Type>
+          <Definition>68b04731-bd5d-48c8-8eea-8c9747f6581d</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>26</Id>
+          <Caption>Pain Level</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>27</Id>
+          <Caption>Medication</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>28</Id>
+          <Caption>Work</Caption>
+          <SortOrder>3</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>29</Id>
+          <Caption>Complimentary Treatment</Caption>
+          <SortOrder>4</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>36</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Guide</Name>
+        <Alias>guide</Alias>
+        <Icon>icon-book color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>contentBoxPage</DocumentType>
+        <DocumentType>exercises</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Guide Intro</Name>
+        <Alias>guideIntro</Alias>
+        <Icon>icon-book color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>simpleBox</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Next Button Text</Name>
+          <Alias>nextButtonText</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>d48a1152-ad34-486d-9246-2c0795475ec3</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>20</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Home</Name>
+        <Alias>home</Alias>
+        <Icon>icon-home color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>True</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>guide</DocumentType>
+        <DocumentType>login</DocumentType>
+        <DocumentType>guideIntro</DocumentType>
+        <DocumentType>trainingOverview</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Login</Name>
+        <Alias>login</Alias>
+        <Icon>icon-lock color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Login button text</Name>
+          <Alias>loginButtonText</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>d48a1152-ad34-486d-9246-2c0795475ec3</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Code placeholder</Name>
+          <Alias>codePlaceholder</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>f57e5445-3f80-460d-9b97-c4fdae087cf4</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Application name</Name>
+          <Alias>applicationName</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>2099a38a-b825-4b20-965c-a2ac4724c457</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Instructions</Name>
+          <Alias>instructions</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>2ff34458-cc15-43bc-a3fb-bdaadc87587d</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>16</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Pages">
+      <Info>
+        <Name>Repetition maximum</Name>
+        <Alias>repetitionMaximum</Alias>
+        <Icon>icon-document</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>basePage</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Submissions">
+      <Info>
+        <Name>Repetition Maximum (Group B)</Name>
+        <Alias>repetitionMaximumGroupB</Alias>
+        <Icon>icon-temperatrure-alt color-light-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Intervention group RM</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Components">
+      <Info>
+        <Name>Simple box</Name>
+        <Alias>simpleBox</Alias>
+        <Icon>icon-stop color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseContentBox</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Is important</Name>
+          <Alias>isImportant</Alias>
+          <Type>Umbraco.TrueFalse</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+          <Description><![CDATA[Attaches the simple box to the top of the page.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Body</Name>
+          <Alias>body</Alias>
+          <Type>Umbraco.TinyMCEv3</Type>
+          <Definition>c19418e1-33e1-497b-b531-abd166a43106</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>15</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Submissions">
+      <Info>
+        <Name>Submissions Directory</Name>
+        <Alias>submissionsDirectory</Alias>
+        <Icon>icon-folder-close color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>True</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>groupASurvey</DocumentType>
+        <DocumentType>groupBSurvey</DocumentType>
+        <DocumentType>groupADiary</DocumentType>
+        <DocumentType>groupBDiary</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Training Diary</Name>
+        <Alias>trainingDiary</Alias>
+        <Icon>icon-hearts color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Training Overview</Name>
+        <Alias>trainingOverview</Alias>
+        <Icon>icon-hearts color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>trainingSurvey</DocumentType>
+        <DocumentType>trainingDiary</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+    <DocumentType Folders="Sections">
+      <Info>
+        <Name>Training Survey</Name>
+        <Alias>trainingSurvey</Alias>
+        <Icon>icon-hearts color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions>
+          <Composition>baseSection</Composition>
+        </Compositions>
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Pain Lowest Label</Name>
+          <Alias>painLowestLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>7</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Heading</Name>
+          <Alias>painHeading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Low Subheading</Name>
+          <Alias>painLowSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Question</Name>
+          <Alias>painQuestion</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Information Body</Name>
+          <Alias>painInformationBody</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>38d3bc0a-7b74-4405-93e8-b1b2feaf4574</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain High Subheading</Name>
+          <Alias>painHighSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Highest Label</Name>
+          <Alias>painHighestLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>8</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Information Help</Name>
+          <Alias>painInformationHelp</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>d48a1152-ad34-486d-9246-2c0795475ec3</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pain Average Subheading</Name>
+          <Alias>painAverageSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Pain</Tab>
+          <SortOrder>6</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Survey Information</Name>
+          <Alias>surveyInformation</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>38d3bc0a-7b74-4405-93e8-b1b2feaf4574</Definition>
+          <Tab>Content</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Enter Pieces Placeholder</Name>
+          <Alias>enterPiecesPlaceholder</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>f57e5445-3f80-460d-9b97-c4fdae087cf4</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>7</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Type Amount Subheading</Name>
+          <Alias>medicationTypeAmountSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Days On Medication Subheading</Name>
+          <Alias>daysOnMedicationSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Ipren 200 Label</Name>
+          <Alias>ipren200Label</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Has Taken Medication Subheading</Name>
+          <Alias>hasTakenMedicationSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Pamol 500 Label</Name>
+          <Alias>pamol500Label</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Medication Heading</Name>
+          <Alias>medicationHeading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Type Placeholder</Name>
+          <Alias>otherMedicationTypePlaceholder</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>f57e5445-3f80-460d-9b97-c4fdae087cf4</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>10</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Amount Label</Name>
+          <Alias>otherMedicationAmountLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>11</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Ipren 600 Label</Name>
+          <Alias>ipren600Label</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>6</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Type Label</Name>
+          <Alias>otherMedicationTypeLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>9</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Label</Name>
+          <Alias>otherLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>8</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Medication Amount Placeholder</Name>
+          <Alias>otherMedicationAmountPlaceholder</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>f57e5445-3f80-460d-9b97-c4fdae087cf4</Definition>
+          <Tab>Medication</Tab>
+          <SortOrder>12</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Sickness Heading</Name>
+          <Alias>sicknessHeading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Sickness/absence</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Days Sick Subheading</Name>
+          <Alias>daysSickSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Sickness/absence</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Other Treatment Placeholder</Name>
+          <Alias>otherTreatmentPlaceholder</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>f57e5445-3f80-460d-9b97-c4fdae087cf4</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>8</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Chiropractor Label</Name>
+          <Alias>chiropractorLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>7</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Complimentary Treatment Information</Name>
+          <Alias>complimentaryTreatmentInformation</Alias>
+          <Type>Umbraco.TextboxMultiple</Type>
+          <Definition>38d3bc0a-7b74-4405-93e8-b1b2feaf4574</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>1</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Complimentary Treatments Subheading</Name>
+          <Alias>complimentaryTreatmentsSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>2</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Physiotherapy Label</Name>
+          <Alias>physiotherapyLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>4</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Acupuncture Label</Name>
+          <Alias>acupunctureLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>6</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Complimentary Treatment Heading</Name>
+          <Alias>complimentaryTreatmentHeading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>89071cc0-7ba3-4ca2-9f78-98a710a3b96e</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Massage Label</Name>
+          <Alias>massageLabel</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>520a1b2f-9590-49fe-beed-6f6471906fa9</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>5</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Has Seen Doctor Subheading</Name>
+          <Alias>hasSeenDoctorSubheading</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>314f4157-1a00-452b-bf89-5e7af22bb5be</Definition>
+          <Tab>Complimentary Treatment</Tab>
+          <SortOrder>3</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>41</Id>
+          <Caption>Pain</Caption>
+          <SortOrder>1</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>42</Id>
+          <Caption>Content</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>43</Id>
+          <Caption>Medication</Caption>
+          <SortOrder>2</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>44</Id>
+          <Caption>Sickness/absence</Caption>
+          <SortOrder>3</SortOrder>
+        </Tab>
+        <Tab>
+          <Id>45</Id>
+          <Caption>Complimentary Treatment</Caption>
+          <SortOrder>4</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Users">
+      <Info>
+        <Name>User A</Name>
+        <Alias>userA</Alias>
+        <Icon>icon-umb-users color-red</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Control group</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>AutheticationCode</Name>
+          <Alias>autheticationCode</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>116ab900-a0b5-4fbb-bbae-2319fca9fee2</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>32</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Users">
+      <Info>
+        <Name>User B</Name>
+        <Alias>userB</Alias>
+        <Icon>icon-umb-users color-blue</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>Intervention group</Description>
+        <AllowAtRoot>False</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>AutheticationCode</Name>
+          <Alias>autheticationCode</Alias>
+          <Type>Umbraco.Textbox</Type>
+          <Definition>116ab900-a0b5-4fbb-bbae-2319fca9fee2</Definition>
+          <Tab>About</Tab>
+          <SortOrder>0</SortOrder>
+          <Mandatory>False</Mandatory>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>33</Id>
+          <Caption>About</Caption>
+          <SortOrder>0</SortOrder>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType Folders="Users">
+      <Info>
+        <Name>Users Directory</Name>
+        <Alias>usersDirectory</Alias>
+        <Icon>icon-folder-close color-green</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description />
+        <AllowAtRoot>True</AllowAtRoot>
+        <IsListView>False</IsListView>
+        <Compositions />
+        <AllowedTemplates />
+        <DefaultTemplate />
+      </Info>
+      <Structure>
+        <DocumentType>userA</DocumentType>
+        <DocumentType>userB</DocumentType>
+      </Structure>
+      <GenericProperties />
+      <Tabs />
+    </DocumentType>
+  </DocumentTypes>
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes>
+    <DataType Name="Application name textbox" Id="Umbraco.Textbox" Definition="2099a38a-b825-4b20-965c-a2ac4724c457" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="15" Value="64" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Approved Color" Id="Umbraco.ColorPickerAlias" Definition="0225af17-b302-49cb-9176-b9f35cab9c17" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="AutheticationCode" Id="Umbraco.Textbox" Definition="116ab900-a0b5-4fbb-bbae-2319fca9fee2" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="105" Value="32" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Body" Id="Umbraco.TextboxMultiple" Definition="38d3bc0a-7b74-4405-93e8-b1b2feaf4574" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="121" Value="" Alias="maxChars" SortOrder="0" />
+        <PreValue Id="122" Value="" Alias="rows" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Body rich text editor" Id="Umbraco.TinyMCEv3" Definition="852e641c-5c91-430e-90f1-0431d5ad7027" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="26" Value="{&#xD;&#xA;  &quot;toolbar&quot;: [&#xD;&#xA;    &quot;removeformat&quot;,&#xD;&#xA;    &quot;undo&quot;,&#xD;&#xA;    &quot;redo&quot;,&#xD;&#xA;    &quot;cut&quot;,&#xD;&#xA;    &quot;copy&quot;,&#xD;&#xA;    &quot;paste&quot;,&#xD;&#xA;    &quot;styleselect&quot;,&#xD;&#xA;    &quot;bold&quot;,&#xD;&#xA;    &quot;italic&quot;,&#xD;&#xA;    &quot;underline&quot;,&#xD;&#xA;    &quot;strikethrough&quot;,&#xD;&#xA;    &quot;alignleft&quot;,&#xD;&#xA;    &quot;aligncenter&quot;,&#xD;&#xA;    &quot;alignright&quot;,&#xD;&#xA;    &quot;alignjustify&quot;,&#xD;&#xA;    &quot;bullist&quot;,&#xD;&#xA;    &quot;numlist&quot;,&#xD;&#xA;    &quot;outdent&quot;,&#xD;&#xA;    &quot;indent&quot;,&#xD;&#xA;    &quot;subscript&quot;,&#xD;&#xA;    &quot;superscript&quot;,&#xD;&#xA;    &quot;charmap&quot;&#xD;&#xA;  ],&#xD;&#xA;  &quot;stylesheets&quot;: [],&#xD;&#xA;  &quot;dimensions&quot;: {&#xD;&#xA;    &quot;height&quot;: 500&#xD;&#xA;  },&#xD;&#xA;  &quot;maxImageSize&quot;: 500&#xD;&#xA;}" Alias="editor" SortOrder="0" />
+        <PreValue Id="27" Value="0" Alias="hideLabel" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Button text" Id="Umbraco.Textbox" Definition="d48a1152-ad34-486d-9246-2c0795475ec3" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="123" Value="32" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Checkbox" Id="Umbraco.TrueFalse" Definition="92897bc6-a5f3-4ffe-ae27-f2e7e33dda49" DatabaseType="Integer">
+      <PreValues />
+    </DataType>
+    <DataType Name="Checkbox list" Id="Umbraco.CheckBoxList" Definition="fbaf13a8-4036-41f2-93a3-974f678c312a" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="Comments" Id="Umbraco.TextboxMultiple" Definition="67244524-1e11-4500-9d0c-7431ecb15129" DatabaseType="Ntext" Folders="Custom">
+      <PreValues>
+        <PreValue Id="99" Value="" Alias="maxChars" SortOrder="0" />
+        <PreValue Id="100" Value="" Alias="rows" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Content box body" Id="Umbraco.TinyMCEv3" Definition="c19418e1-33e1-497b-b531-abd166a43106" DatabaseType="Ntext" Folders="Custom">
+      <PreValues>
+        <PreValue Id="13" Value="{&#xD;&#xA;  &quot;toolbar&quot;: [&#xD;&#xA;    &quot;removeformat&quot;,&#xD;&#xA;    &quot;undo&quot;,&#xD;&#xA;    &quot;redo&quot;,&#xD;&#xA;    &quot;cut&quot;,&#xD;&#xA;    &quot;copy&quot;,&#xD;&#xA;    &quot;paste&quot;,&#xD;&#xA;    &quot;styleselect&quot;,&#xD;&#xA;    &quot;bold&quot;,&#xD;&#xA;    &quot;italic&quot;,&#xD;&#xA;    &quot;underline&quot;,&#xD;&#xA;    &quot;strikethrough&quot;,&#xD;&#xA;    &quot;alignleft&quot;,&#xD;&#xA;    &quot;aligncenter&quot;,&#xD;&#xA;    &quot;alignright&quot;,&#xD;&#xA;    &quot;alignjustify&quot;,&#xD;&#xA;    &quot;bullist&quot;,&#xD;&#xA;    &quot;numlist&quot;,&#xD;&#xA;    &quot;outdent&quot;,&#xD;&#xA;    &quot;indent&quot;,&#xD;&#xA;    &quot;link&quot;,&#xD;&#xA;    &quot;unlink&quot;,&#xD;&#xA;    &quot;anchor&quot;,&#xD;&#xA;    &quot;umbmediapicker&quot;,&#xD;&#xA;    &quot;umbmacro&quot;,&#xD;&#xA;    &quot;umbembeddialog&quot;,&#xD;&#xA;    &quot;hr&quot;,&#xD;&#xA;    &quot;subscript&quot;,&#xD;&#xA;    &quot;superscript&quot;&#xD;&#xA;  ],&#xD;&#xA;  &quot;stylesheets&quot;: [],&#xD;&#xA;  &quot;dimensions&quot;: {&#xD;&#xA;    &quot;height&quot;: 500&#xD;&#xA;  },&#xD;&#xA;  &quot;maxImageSize&quot;: 500&#xD;&#xA;}" Alias="editor" SortOrder="0" />
+        <PreValue Id="14" Value="0" Alias="hideLabel" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Content Picker" Id="Umbraco.ContentPicker2" Definition="fd1e0da5-5606-4862-b679-5d0cf3a52a59" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="Date" Id="Umbraco.Date" Definition="ae067000-68fb-4dca-a8f6-e3643a2bc082" DatabaseType="Date">
+      <PreValues>
+        <PreValue Id="110" Value="DD-MM-YYYY" Alias="format" SortOrder="0" />
+        <PreValue Id="111" Value="1" Alias="defaultEmpty" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Date Picker" Id="Umbraco.Date" Definition="5046194e-4237-453c-a547-15db3a07c4e1" DatabaseType="Date">
+      <PreValues />
+    </DataType>
+    <DataType Name="Date Picker with time" Id="Umbraco.DateTime" Definition="e4d66c0f-b935-4200-81f0-025f7256b89a" DatabaseType="Date">
+      <PreValues />
+    </DataType>
+    <DataType Name="Days slider" Id="Umbraco.Slider" Definition="78db7c7b-9ae7-47ed-8af2-753a7caa8b70" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="69" Value="0" Alias="enableRange" SortOrder="0" />
+        <PreValue Id="70" Value="horizontal" Alias="orientation" SortOrder="1" />
+        <PreValue Id="71" Value="0" Alias="initVal1" SortOrder="2" />
+        <PreValue Id="72" Value="" Alias="initVal2" SortOrder="3" />
+        <PreValue Id="73" Value="0" Alias="minVal" SortOrder="4" />
+        <PreValue Id="74" Value="7" Alias="maxVal" SortOrder="5" />
+        <PreValue Id="75" Value="1" Alias="step" SortOrder="6" />
+        <PreValue Id="76" Value="" Alias="precision" SortOrder="7" />
+        <PreValue Id="77" Value="" Alias="handle" SortOrder="8" />
+        <PreValue Id="78" Value="show" Alias="tooltip" SortOrder="9" />
+        <PreValue Id="79" Value="0" Alias="tooltipSplit" SortOrder="10" />
+        <PreValue Id="80" Value="{0}" Alias="tooltipFormat" SortOrder="11" />
+        <PreValue Id="81" Value="" Alias="tooltipPosition" SortOrder="12" />
+        <PreValue Id="82" Value="0" Alias="reversed" SortOrder="13" />
+        <PreValue Id="83" Value="" Alias="ticks" SortOrder="14" />
+        <PreValue Id="84" Value="" Alias="ticksPositions" SortOrder="15" />
+        <PreValue Id="85" Value="" Alias="ticksLabels" SortOrder="16" />
+        <PreValue Id="86" Value="" Alias="ticksSnapBounds" SortOrder="17" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Dropdown" Id="Umbraco.DropDown.Flexible" Definition="0b6a45e7-44ba-430d-9da5-4e46060b9e03" DatabaseType="Integer">
+      <PreValues>
+        <PreValue Id="7" Value="0" Alias="multiple" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Dropdown multiple" Id="Umbraco.DropDown.Flexible" Definition="f38f0ac7-1d27-439c-9f3f-089cd8825a53" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="8" Value="1" Alias="multiple" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Exercise number decimal" Id="Umbraco.Decimal" Definition="371b607e-9fcd-4e0e-9a3e-dde440215a4e" DatabaseType="Decimal" Folders="Custom">
+      <PreValues>
+        <PreValue Id="20" Value="1" Alias="min" SortOrder="0" />
+        <PreValue Id="21" Value="1" Alias="step" SortOrder="1" />
+        <PreValue Id="22" Value="64" Alias="max" SortOrder="2" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Heading" Id="Umbraco.Textbox" Definition="89071cc0-7ba3-4ca2-9f78-98a710a3b96e" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="118" Value="256" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Image Cropper" Id="Umbraco.ImageCropper" Definition="1df9f033-e6d4-451f-b8d2-e0cbc50a836f" DatabaseType="Ntext">
+      <PreValues />
+    </DataType>
+    <DataType Name="Input Label" Id="Umbraco.Textbox" Definition="520a1b2f-9590-49fe-beed-6f6471906fa9" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="125" Value="" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Input Placeholder" Id="Umbraco.Textbox" Definition="f57e5445-3f80-460d-9b97-c4fdae087cf4" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="126" Value="64" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Intro textarea" Id="Umbraco.TextboxMultiple" Definition="754023c4-8b0c-4249-bd5e-f9509eaba199" DatabaseType="Ntext" Folders="Custom">
+      <PreValues>
+        <PreValue Id="24" Value="1024" Alias="maxChars" SortOrder="0" />
+        <PreValue Id="25" Value="5" Alias="rows" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Label" Id="Umbraco.NoEdit" Definition="f0bc4bfb-b499-40d6-ba86-058885a5178c" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="List View - Content" Id="Umbraco.ListView" Definition="c0808dd3-8133-4e4b-8ce8-e2bea84a96a4" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="List View - Media" Id="Umbraco.ListView" Definition="3a0156c4-3b8c-4803-bdc1-6871faa83fff" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="-5" Value="100" Alias="pageSize" SortOrder="0" />
+        <PreValue Id="-6" Value="updateDate" Alias="orderBy" SortOrder="1" />
+        <PreValue Id="-7" Value="desc" Alias="orderDirection" SortOrder="2" />
+        <PreValue Id="-8" Value="[{&quot;name&quot;: &quot;Grid&quot;,&quot;path&quot;: &quot;views/propertyeditors/listview/layouts/grid/grid.html&quot;, &quot;icon&quot;: &quot;icon-thumbnails-small&quot;, &quot;isSystem&quot;: 1, &quot;selected&quot;: true},{&quot;name&quot;: &quot;List&quot;,&quot;path&quot;: &quot;views/propertyeditors/listview/layouts/list/list.html&quot;,&quot;icon&quot;: &quot;icon-list&quot;, &quot;isSystem&quot;: 1,&quot;selected&quot;: true}]" Alias="layouts" SortOrder="3" />
+        <PreValue Id="-9" Value="[{&quot;alias&quot;:&quot;updateDate&quot;,&quot;header&quot;:&quot;Last edited&quot;,&quot;isSystem&quot;:1},{&quot;alias&quot;:&quot;owner&quot;,&quot;header&quot;:&quot;Updated by&quot;,&quot;isSystem&quot;:1}]" Alias="includeProperties" SortOrder="4" />
+      </PreValues>
+    </DataType>
+    <DataType Name="List View - Members" Id="Umbraco.ListView" Definition="aa2c52a0-ce87-4e65-a47c-7df09358585d" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="-1" Value="10" Alias="pageSize" SortOrder="0" />
+        <PreValue Id="-2" Value="username" Alias="orderBy" SortOrder="1" />
+        <PreValue Id="-3" Value="asc" Alias="orderDirection" SortOrder="2" />
+        <PreValue Id="-4" Value="[{&quot;alias&quot;:&quot;username&quot;,&quot;isSystem&quot;:1},{&quot;alias&quot;:&quot;email&quot;,&quot;isSystem&quot;:1},{&quot;alias&quot;:&quot;updateDate&quot;,&quot;header&quot;:&quot;Last edited&quot;,&quot;isSystem&quot;:1}]" Alias="includeProperties" SortOrder="3" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Media Picker" Id="Umbraco.MediaPicker2" Definition="135d60e0-64d9-49ed-ab08-893c9ba44ae5" DatabaseType="Ntext">
+      <PreValues />
+    </DataType>
+    <DataType Name="Medicine Pieces Integer" Id="Umbraco.Integer" Definition="fa35b06e-3935-4a17-886c-58a46e4cf473" DatabaseType="Integer" Folders="Custom">
+      <PreValues>
+        <PreValue Id="90" Value="1" Alias="min" SortOrder="0" />
+        <PreValue Id="91" Value="1" Alias="step" SortOrder="1" />
+        <PreValue Id="92" Value="48" Alias="max" SortOrder="2" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Member Picker" Id="Umbraco.MemberPicker2" Definition="1ea2e01f-ebd8-4ce1-8d71-6b1149e63548" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="Multiple Media Picker" Id="Umbraco.MediaPicker2" Definition="9dbbcbbb-2327-434a-b355-af1b84e5010a" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="6" Value="1" Alias="multiPicker" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Numeric" Id="Umbraco.Integer" Definition="2e6d3631-066e-44b8-aec4-96f09099b2b5" DatabaseType="Integer">
+      <PreValues />
+    </DataType>
+    <DataType Name="Other Medication Amount" Id="Umbraco.Textbox" Definition="aa4edd8a-b27f-4cb9-8256-41d6ba1b5c0d" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="94" Value="" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Other Medication Type" Id="Umbraco.Textbox" Definition="3203a86f-9b5a-4018-b889-4feb284e7f31" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="93" Value="" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Other Treatment" Id="Umbraco.Textbox" Definition="e6f42efc-4fa9-4c67-b9e7-99e5e635ec31" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="95" Value="" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Pain level slider" Id="Umbraco.Slider" Definition="b9c7dba9-d1fc-4d31-9f32-d095a85d0600" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="49" Value="0" Alias="enableRange" SortOrder="0" />
+        <PreValue Id="50" Value="horizontal" Alias="orientation" SortOrder="1" />
+        <PreValue Id="51" Value="1" Alias="initVal1" SortOrder="2" />
+        <PreValue Id="52" Value="" Alias="initVal2" SortOrder="3" />
+        <PreValue Id="53" Value="1" Alias="minVal" SortOrder="4" />
+        <PreValue Id="54" Value="10" Alias="maxVal" SortOrder="5" />
+        <PreValue Id="55" Value="1" Alias="step" SortOrder="6" />
+        <PreValue Id="56" Value="" Alias="precision" SortOrder="7" />
+        <PreValue Id="57" Value="" Alias="handle" SortOrder="8" />
+        <PreValue Id="58" Value="show" Alias="tooltip" SortOrder="9" />
+        <PreValue Id="59" Value="0" Alias="tooltipSplit" SortOrder="10" />
+        <PreValue Id="60" Value="{0}" Alias="tooltipFormat" SortOrder="11" />
+        <PreValue Id="61" Value="" Alias="tooltipPosition" SortOrder="12" />
+        <PreValue Id="62" Value="0" Alias="reversed" SortOrder="13" />
+        <PreValue Id="63" Value="" Alias="ticks" SortOrder="14" />
+        <PreValue Id="64" Value="" Alias="ticksPositions" SortOrder="15" />
+        <PreValue Id="65" Value="" Alias="ticksLabels" SortOrder="16" />
+        <PreValue Id="66" Value="" Alias="ticksSnapBounds" SortOrder="17" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Radiobox" Id="Umbraco.RadioButtonList" Definition="bb5f57c9-ce2b-4bb9-b697-4caca783a805" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="Related Links" Id="Umbraco.RelatedLinks2" Definition="b4e3535a-1753-47e2-8568-602cf8cfee6f" DatabaseType="Ntext">
+      <PreValues />
+    </DataType>
+    <DataType Name="Richtext editor" Id="Umbraco.TinyMCEv3" Definition="ca90c950-0aff-4e72-b976-a30b1ac57dad" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="3" Value=",code,undo,redo,cut,copy,mcepasteword,stylepicker,bold,italic,bullist,numlist,outdent,indent,mcelink,unlink,mceinsertanchor,mceimage,umbracomacro,mceinserttable,umbracoembed,mcecharmap,|1|1,2,3,|0|500,400|1049,|true|" Alias="0" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Side Effects" Id="Umbraco.TextboxMultiple" Definition="98e08d8e-7717-46e4-9766-f526bb90ae9b" DatabaseType="Ntext" Folders="Custom">
+      <PreValues>
+        <PreValue Id="103" Value="" Alias="maxChars" SortOrder="0" />
+        <PreValue Id="104" Value="" Alias="rows" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Subheading" Id="Umbraco.Textbox" Definition="314f4157-1a00-452b-bf89-5e7af22bb5be" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="124" Value="256" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Subheading textbox" Id="Umbraco.Textbox" Definition="2ff34458-cc15-43bc-a3fb-bdaadc87587d" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="16" Value="" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Tags" Id="Umbraco.Tags" Definition="b6b73142-b9c1-4bf8-a16d-e1c23320b549" DatabaseType="Ntext">
+      <PreValues>
+        <PreValue Id="4" Value="default" Alias="group" SortOrder="0" />
+        <PreValue Id="5" Value="Json" Alias="storageType" SortOrder="1" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Textarea" Id="Umbraco.TextboxMultiple" Definition="c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3" DatabaseType="Ntext">
+      <PreValues />
+    </DataType>
+    <DataType Name="Textstring" Id="Umbraco.Textbox" Definition="0cc0eba1-9960-42c9-bf9b-60e150b429ae" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="Title textbox" Id="Umbraco.Textbox" Definition="cb2014a7-b751-4e17-95ca-401545c3a458" DatabaseType="Nvarchar" Folders="Custom">
+      <PreValues>
+        <PreValue Id="10" Value="32" Alias="maxChars" SortOrder="0" />
+      </PreValues>
+    </DataType>
+    <DataType Name="Upload" Id="Umbraco.UploadField" Definition="84c6b441-31df-4ffe-b67e-67d5bc3ae65a" DatabaseType="Nvarchar">
+      <PreValues />
+    </DataType>
+    <DataType Name="User Picker" Id="Umbraco.ContentPicker2" Definition="68b04731-bd5d-48c8-8eea-8c9747f6581d" DatabaseType="Nvarchar">
+      <PreValues>
+        <PreValue Id="108" Value="0" Alias="showOpenButton" SortOrder="0" />
+        <PreValue Id="109" Value="umb://document/534fb067c74144de82d85c9d85bdaadb" Alias="startNodeId" SortOrder="1" />
+      </PreValues>
+    </DataType>
+  </DataTypes>
+</umbPackage>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="umbracoDbDSN-Web.config Connection String" description="umbracoDbDSN Connection String used in web.config by the application to access the database." defaultValue="Server=uffechristiansen.database.windows.net;Database=sdubackend;User ID=uch@uffechristiansen;Password='Kurt_159753'" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\uffec\\vs\\sdubackend7\\sdubackend7\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='umbracoDbDSN']/@connectionString" />
+  </parameter>
+</parameters>
